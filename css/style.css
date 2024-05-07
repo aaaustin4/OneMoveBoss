@@ -1,0 +1,283 @@
+html,
+
+font-face{
+    font-family: W95FA;
+    src: url(/img/W95FARegular.ttf);
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  font-family: "W95FA";
+  font-size: 32px;
+  color: rgb(255, 255, 255);
+  margin: 0px;
+  overflow-y: hidden;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+#bosstext {
+  text-align: center;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#boss {
+  position: absolute;
+  left: 35%;
+  top: 1%;
+  width: 500px;
+height: 500px;
+}
+#disc {
+  position: absolute;
+  left: 35%;
+  top: 1%;
+  width: 500px;
+height: 500px;
+}
+
+#inventory{
+position: absolute;
+top: 45%;
+left:2%;
+}
+
+#hammerpng {
+  position: absolute;
+  left: 15%;
+  top: 45%
+}
+#hammerpng:hover {
+  opacity: 0%;
+}
+#hammergif {
+  position: absolute;
+  left: 15%;
+  top: 45%
+}
+#twinserpng {
+  position: absolute;
+  left: 35%;
+  top: 45%
+}
+#twinserpng:hover {
+  opacity: 0%;
+}
+#twinsergif {
+  position: absolute;
+  left: 35%;
+  top: 45%
+}
+#beaconpng {
+  position: absolute;
+  left: 55%;
+  top: 45%
+}
+#beaconpng:hover {
+  opacity: 0%;
+}
+#beacongif {
+  position: absolute;
+  left: 55%;
+  top: 45%
+}
+#nebulapng {
+  position: absolute;
+  left: 75%;
+  top: 45%
+}
+#nebulapng:hover {
+  opacity: 0%;
+}
+#nebulagif {
+  position: absolute;
+  left: 75%;
+  top: 45%
+}
+#soulpng {
+  position: absolute;
+  left: 15%;
+  top: 58%
+}
+#soulpng:hover {
+  opacity: 0%;
+}
+#soulgif {
+  position: absolute;
+  left: 15%;
+  top: 58%
+}
+#itempng {
+  position: absolute;
+  left: 35%;
+  top: 58%
+}
+#itempng:hover {
+  opacity: 0%;
+}
+#itemgif {
+  position: absolute;
+  left: 35%;
+  top: 58%
+}
+#planepng {
+  position: absolute;
+  left: 55%;
+  top: 58%
+}
+#planepng:hover {
+  opacity: 0%;
+}
+#planegif {
+  position: absolute;
+  left: 55%;
+  top: 58%
+}
+#chompypng {
+  position: absolute;
+  left: 75%;
+  top: 58%
+}
+#chompypng:hover {
+  opacity: 0%;
+}
+#frogpng {
+  position: absolute;
+  left: 15%;
+  top: 71%;
+}
+
+#frogpng:hover {
+  opacity: 0%;
+}
+
+#frogmask {
+  position: absolute;
+  left: 15%;
+  top: 71%;
+}
+#puffpng {
+  position: absolute;
+  left: 35%;
+  top: 71%
+}
+#puffpng:hover {
+  opacity: 0%;
+}
+#eyedropspng {
+  position: absolute;
+  left: 55%;
+  top: 71%
+}
+#eyedropspng:hover {
+  opacity: 0%;
+}
+#eyedropsgif {
+  position: absolute;
+  left: 55%;
+  top: 71%
+}
+#move {
+  position: absolute;
+  left: 3%;
+  top: 85%;
+}
+
+#credits {
+  color: white;
+  position: absolute; 
+  left: 90%;
+  top: 90%;
+}
+#credits:link {
+  color: white;
+}
+#credits:hover {
+  color: white;
+}
+#credits:active {
+  color: white;
+}
+#credits:visited {
+  color: white;
+}
+#hammerbc {
+  background-color: white;
+}
+#creditsreset {
+  font-size: 40px;
+  position: absolute;
+  top:20%;
+  left:5%;
+}
+#hammerreset {
+  font-size: 40px;
+  position: absolute;
+  top:20%;
+  left:5%;
+}
+#twinreset {
+  font-size: 40px;
+  position: absolute;
+  top:20%;
+  left:5%;
+}
+#beaconreset {
+  font-size: 40px;
+  position: absolute;
+  top:32%;
+  left:5%;
+}
+#nebulareset {
+  font-size: 40px;
+  position: absolute;
+  top:80%;
+  left:5%;
+}
+#soulreset {
+  font-size: 40px;
+  position: absolute;
+  top:30%;
+  left:5%;
+}
+#itemreset {
+  font-size: 40px;
+  position: absolute;
+  top:90%;
+  left:90%;
+}
+#flipperreset {
+  font-size: 40px;
+  position: absolute;
+  top:60%;
+  left:5%;
+}
+#basketreset {
+  font-size: 40px;
+  position: absolute;
+  top:40%;
+  left:5%;
+}
+#frogreset {
+  font-size: 40px;
+  position: absolute;
+  top:40%;
+  left:5%;
+}
+#hexapuffreset {
+  font-size: 40px;
+  position: absolute;
+  top:40%;
+  left:5%;
+}
+#bajtechreset {
+  font-size: 40px;
+  position: absolute;
+  top:30%;
+  left:5%;
+}
