@@ -4,8 +4,8 @@ var font;
 var car;
 
 function preload(){
-font = loadFont('/img/W95FARegular.ttf');
-  pic = loadImage('/img/momscar.png');
+font = loadFont('img/W95FARegular.ttf');
+  pic = loadImage('img/momscar.png');
 }
 
 function setup() {
