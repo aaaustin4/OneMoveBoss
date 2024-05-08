@@ -8,7 +8,7 @@ var Yspeed = 20;
 
 
 function preload(){
-font = loadFont('/img/W95FARegular.ttf');
+font = loadFont('img/W95FARegular.ttf');
 }
 
 function setup() {

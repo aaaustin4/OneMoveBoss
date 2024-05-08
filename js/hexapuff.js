@@ -2,8 +2,8 @@ var boss;
 var font;
 
 function preload(){
-font = loadFont('/img/W95FARegular.ttf');
-  pic = loadImage('/img/Floating-island-gif.gif');
+font = loadFont('img/W95FARegular.ttf');
+  pic = loadImage('img/Floating-island-gif.gif');
   
 
 }

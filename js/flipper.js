@@ -3,9 +3,9 @@ var mouth;
 var font;
 
 function preload(){
-font = loadFont('/img/W95FARegular.ttf')
-  pic = loadImage('/img/scarecrow knigth.png')
-  mouth = loadImage('/img/omoisu csatle.png')
+font = loadFont('img/W95FARegular.ttf')
+  pic = loadImage('img/scarecrow knigth.png')
+  mouth = loadImage('img/omoisu csatle.png')
   
 
 }

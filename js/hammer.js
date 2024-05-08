@@ -3,7 +3,7 @@ var font;
 
 
 function preload(){
-font = loadFont('/img/W95FARegular.ttf');
+font = loadFont('img/W95FARegular.ttf');
  
 }
 
