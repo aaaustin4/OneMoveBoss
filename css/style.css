@@ -146,6 +146,11 @@ left:2%;
 #chompypng:hover {
   opacity: 0%;
 }
+#chompygif {
+  position: absolute;
+  left: 75%;
+  top: 58%
+}
 #frogpng {
   position: absolute;
   left: 15%;
