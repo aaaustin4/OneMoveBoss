@@ -2,7 +2,7 @@ html,
 
 font-face{
     font-family: W95FA;
-    src: url(/img/W95FARegular.ttf);
+    src: url("img/W95FARegular.ttf");
 }
 
 body {
