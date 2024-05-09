@@ -1,13 +1,13 @@
 html,
 
 font-face{
-    font-family: "W95FA";
+    font-family: W95FA;
     src: url("img/W95FARegular.ttf");
 }
 
 body {
   background-color: rgb(0, 0, 0);
-  font-family: "W95FA";
+  font-family: W95FA;
   font-size: 32px;
   color: rgb(255, 255, 255);
   margin: 0px;
